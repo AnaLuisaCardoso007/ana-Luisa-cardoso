@@ -1,2 +1,9 @@
-# ana-Luisa-cardoso
-Aula de pensamento computacional 
+<!DOCTYPE HTML>
+<HTML CHARSET="UTF-8">
+<HEAD>
+<TITLE> CONSCIENTIZAÇÃO SOBRE O MEIO AMBIENTE
+</HEAD>
+<BODY>
+<STRONG> COMO CUIDAR DO MEIO AMBIENTE
+<STRONG>
+</P>_
